@@ -65,7 +65,7 @@ Most idle NFT titles feel pay-to-win and hide their math. Golden Harbor flips th
 ## 6  Links
 - [Website](https://goldenharbor.io)  
 - [AtomicHub collection](https://wax.atomichub.io/explorer/collection/wax-mainnet/goldenhabor)  
-- [Discord](https://discord.gg/XXXXXXXX)  
+- [Discord](https://discord.gg/GREUP6jh)  
 - [X / Twitter](https://x.com/goldenhabornft)
 
 ---
